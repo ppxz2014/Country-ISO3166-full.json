@@ -2167,5 +2167,21 @@
     "alpha2": "ZW",
     "alpha3": "ZWE",
     "numeric": 716
-  }
+  },
+  {
+    "id": 245,
+    "cn_name": "中国香港",
+    "name": "Hong Kong",
+    "alpha2": "HK",
+    "alpha3": "HKG",
+    "numeric": 344
+  },
+ {
+    "id": 246,
+    "cn_name": "中国台湾",
+    "name": "Taiwan",
+    "alpha2": "TW",
+    "alpha3": "TWN",
+    "numeric": 158
+ }
 ]
